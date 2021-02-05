@@ -3,3 +3,6 @@ git_test1.txt
 ----------------------
 git_test2 addition
 ----------------------
+not down 
+down1 addition
+----------------------
