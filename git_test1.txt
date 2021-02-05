@@ -5,3 +5,6 @@ git_test2 addition
 ----------------------
 down revised
 ---------------
+not down 
+down1 addition
+----------------------
